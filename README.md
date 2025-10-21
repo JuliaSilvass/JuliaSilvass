@@ -10,7 +10,7 @@ Olá! Me chamo Julia, sou estudante de Análise e Desenvolvimento de Sistemas no
 
 Já atuei na Compass UOL, onde tive contato direto com soluções em nuvem, especialmente com AWS e Google Cloud Platform, e desenvolvi. Tenho experiência sólida com Python, Node.js, integrações de APIs e análise de dados.
 
-Atualmente, estou estagiando na Taura Soluções, onde aprendido sobre sistemas para frigoríficos, utilizando Visual Basic 6 e SQL Server, com foco em lógica de negócio e sistemas legados.
+Atualmente, trabalho na Taura Soluções, como analista de suporte e desenvolvimento para sistema de frigoríficos, utilizando Visual Basic 6 e SQL Server, com foco em lógica de negócio, trabalho com desenvolvimento de carteira de cobraças (processamento de CNABs), desenvolvimento de documentação em mkdocs - Material, desenvolvimento de novas funcionalidade e melhorias.
 
 ## 🛠️ Tecnologias e ferramentas que uso  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
